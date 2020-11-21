@@ -1,4 +1,4 @@
-# BTcontrolCar_VHD
+# FPGA_Car
 
 This is a bluetooth controlled car project
 
@@ -9,4 +9,4 @@ The matterials used for this project are:
   - L293D IC 
   - GP Boards 
   
-The project is programmed using VHD in Intel Quartus Prime  
+The project is programmed using VHDL in Intel Quartus Prime  
